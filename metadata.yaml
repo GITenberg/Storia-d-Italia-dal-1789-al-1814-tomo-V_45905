@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41885'
     url: http://www.gutenberg.org/2009/agents/41885
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45905#Storia-d-Italia-dal-1789-al-1814-tomo-V
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2014-06-06'
 gutenberg_type: Text
