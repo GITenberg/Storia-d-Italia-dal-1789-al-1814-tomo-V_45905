@@ -1,0 +1,30 @@
+_repo: Storia-d-Italia-dal-1789-al-1814-tomo-V_45905
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45905-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Botta, Carlo
+    aliases:
+    - Botta, Carlo Giuseppe Guglielmo
+    - Botta, Charles
+    birthdate: 1766
+    deathdate: 1837
+    gutenberg_agent_id: '41885'
+    url: http://www.gutenberg.org/2009/agents/41885
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2014-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45905'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 1789-1815'
+- !lcc 'DG'
+title: Storia d'Italia dal 1789 al 1814, tomo V
+url: http://www.gutenberg.org/ebooks/45905
